@@ -1,0 +1,15 @@
+/Users/kirangowda/Projects/LIB/LIB/bin/Debug/net6.0/LIB
+/Users/kirangowda/Projects/LIB/LIB/bin/Debug/net6.0/LIB.deps.json
+/Users/kirangowda/Projects/LIB/LIB/bin/Debug/net6.0/LIB.runtimeconfig.json
+/Users/kirangowda/Projects/LIB/LIB/bin/Debug/net6.0/LIB.dll
+/Users/kirangowda/Projects/LIB/LIB/bin/Debug/net6.0/LIB.pdb
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.csproj.AssemblyReference.cache
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.AssemblyInfoInputs.cache
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.AssemblyInfo.cs
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.csproj.CoreCompileInputs.cache
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.dll
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/refint/LIB.dll
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.pdb
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/LIB.genruntimeconfig.cache
+/Users/kirangowda/Projects/LIB/LIB/obj/Debug/net6.0/ref/LIB.dll
